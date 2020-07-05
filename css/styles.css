@@ -10289,3 +10289,7 @@ hr.hr-light {
     bottom: 0;
     width: 100%;
 }
+
+. red-text {
+  color: #F44336;
+}
